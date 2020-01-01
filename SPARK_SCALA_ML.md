@@ -200,40 +200,4 @@ main()
 
 [![r.png](https://i.postimg.cc/GpG4mQm6/r.png)](https://postimg.cc/CZMhvbD4)
 
-We are now ready to deep dive in Linear Regression with Spark-Scala using IntelliJ.
-
-## Linear Regression - Deep dive, using IntelliJ
-
-In this Linear regression model tutorial with Spark-Scala, we'll use <b>USA_Housing.scala</b>.<br>
-
-Feel free to download if from the dataset (see dataset.md) section of this gist.<br>
-
-### 1. Load our dataset, turn it into a dataframe and print it's schema
-
-<details>
-<summary>🔴 LinReg.scala </summary>
-<p>
-  
- ``` 
-import org.apache.spark.ml.evaluation.RegressionEvaluator
-import org.apache.spark.ml.regression.LinearRegression
-import org.apache.spark.ml.tuning.{ParamGridBuilder, TrainValidationSplit}
-
-import org.apache.log4j._
-Logger.getLogger("org").setLevel(Level.ERROR)
-
-
-// Start a simple Spark Session
-import org.apache.spark.sql.SparkSession
-
-val spark = SparkSession.builder().getOrCreate()
-
-// Prepare training and test data.
-val data = spark.read.option("header", "true").option("inferSchema", "true").format("csv").load("/home/zaki/Desktop/scala/Datasets/USA_Housing.csv")
-
-data.printSchema()
-
-```
-
-</p>
 </details>
