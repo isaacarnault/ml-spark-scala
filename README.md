@@ -1,7 +1,7 @@
 # Machine Learning using Spark-Scala - Hands-on
-### Tools used: IntelliJ • Programming languages: Scala
+### Tools used: IntelliJ, Spark • Programming languages: Scala
 
-[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 The following gist is intended to Data Engineers. It focuses on `Spark` and `Scala` for `Machine Learning`.<br>
 If we want to handle `batch` and `real-time` data processing, this gist is definitely worth checking.<br>
