@@ -14,8 +14,7 @@ Please fork it if we find it relevant for our educational or professional path.
 ## How is gist is structured
 This gist is structured into 2 parts:<br>
 
-### Part 1. Machine Leaning using Spark-Scala (Linear Regression
-Check <b>  <b>.
+### Part 1. Machine Leaning using Spark-Scala (Linear Regression)
   
 ## Important
 
