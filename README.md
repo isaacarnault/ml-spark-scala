@@ -1,4 +1,4 @@
-[![ml.png](https://i.postimg.cc/bwV30QTH/ml.png)](https://postimg.cc/NKT6B2Z5)
+[![machinelearningblog-graphic.png](https://i.postimg.cc/MKPygzQz/machinelearningblog-graphic.png)](https://postimg.cc/fJdt9nCP)
 
 # Machine Learning using Spark-Scala - Hands-on
 ### Tools used: IntelliJ, Spark • Programming languages: Scala
