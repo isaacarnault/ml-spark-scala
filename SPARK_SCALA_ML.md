@@ -201,3 +201,5 @@ main()
 [![r.png](https://i.postimg.cc/GpG4mQm6/r.png)](https://postimg.cc/CZMhvbD4)
 
 </details>
+
+I hope this gist will help you start with Machine Learning using `Scala`.
