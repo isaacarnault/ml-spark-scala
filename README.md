@@ -14,7 +14,7 @@ Please fork it if we find it relevant for our educational or professional path.
 ## How is gist is structured
 This gist is structured into 2 parts:<br>
 
-### Part 1. Machine Leaning using SPark-Scala (Linear Regression
+### Part 1. Machine Leaning using Spark-Scala (Linear Regression
 Check <b>  <b>.
   
 ## Important
@@ -61,9 +61,10 @@ https://www.fathersinfashion.com/blog/2018/10/29/member-spotlight-caleb-wilson
 https://twitter.com/_msl92
 https://twitter.com/manwellreyes
 
-I've uploaded a `.zip` which contains useful slides `MachineLearning`, `Spark` and `Scala`.<br>
+I've uploaded a `.zip` file ** which contains useful slides `MachineLearning`, `Spark` and `Scala`.<br>
 <b>https://bit.ly/2zkcrP7</b>
   
 ## Author
 
 * **Isaac Arnault** - Introducing Machine Learning using Spark-Scala - Related tags: #EC2 #TLS #AWSCLI #Linux
+** <a target="_blank" href="https://www.pieriandata.com/">Perian Data</a>
