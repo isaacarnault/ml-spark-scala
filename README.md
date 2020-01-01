@@ -45,7 +45,7 @@ This gist is structured into 2 parts:<br>
 3. Parallel operations which are partitioned
 4. An RDD can use many data sources
 
-. `RDDs` are immutable, cacheable and lazily evaluated.<b>
+. `RDDs` are immutable, cacheable and lazily evaluated.
 . There are 2 types of `RDD` operations:<br>
   
   1. Transformations: recipes to follow
