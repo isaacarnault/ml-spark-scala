@@ -202,4 +202,4 @@ main()
 
 </details>
 
-I hope this gist will help you start with Machine Learning using `Scala`.
+I hope this gist will give you the basics to start a `Machine Learning` project using `Spark` and `IntelliJ`.
