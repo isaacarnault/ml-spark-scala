@@ -18,20 +18,24 @@ This gist is structured into 2 parts:<br>
 Check <b>  <b>.
   
 ## Important
-<b>Scala</b><br>
+
+#### Scala
+
 . `Scala` is a general purpose programming language.<br>
 . `Scala` was designed by Martin Odersky (Ecole Polytechnique Fédérale de Lausanne).<br>
 . `Scala` source code is intended to be compiled to `Java` bytecode to run on a `Java Virtual Machine` (JVM).<br>
 . `Java` librairies can be used directly in `Scala`.<br>
-. 
-<b>Spark</b><br>
+
+#### Spark
+
 . `Spark` is one of the most powerful `Big Data` tools.<br>
 . `Spark` runs programs up to 100x faster than Hadoop's `MapReduce`.<br>
 . `Spark` can use data stored in `Cassandra`, Amazon `S3`, Hadoop's`HDFS`, etc.<br>
 . `MapReduce` requires files to be stored in `HDFS`, `Spark` does not.<br>
 . `Spark` performs 100x faster than `Mapreduce` because it writes jobs in-memory. `Mapreduce` writes job on disk.
 
-<b>Data processing</b><br>
+#### Data Processing
+
 . `MapReduce` (Hadoop) writes most data to <b>disk</b> after each `Map` and `Reduce` operation.<br>
 . `Spark` keeps most of the data <b>in memory</b> after each transformation.<br>
 . At the core of `Spark` there are `Resilient Distributed Datasets` also known as `RDDs`.<br>
