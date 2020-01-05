@@ -69,5 +69,5 @@ I've uploaded a `.zip` file ** which contains useful slides `MachineLearning`, `
   
 ## Author
 
-* **Isaac Arnault** - Introducing Machine Learning using Spark-Scala - Related tags: #EC2 #TLS #AWSCLI #Linux
-** <a target="_blank" href="https://www.pieriandata.com/">Perian Data</a>
+* **Isaac Arnault** - Introducing Machine Learning using Spark-Scala - Related tags: #EC2 #TLS #AWSCLI #Linux<br>
+** <a target="_blank" href="https://www.pieriandata.com/">© Perian Data</a>
