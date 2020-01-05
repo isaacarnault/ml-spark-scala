@@ -173,18 +173,7 @@ main()
 6. Once `Spark` has started, load the above program using `> :load url-path/LinRegDocExample.scala`.<br>
 
 <details>
-<summary>🔴 See on IntelliJ</summary>
-<p> 
-  
-[![isaac-arnault-spark-scala.png](https://i.postimg.cc/0QGPLXy2/isaac-arnault-spark-scala.png)](https://postimg.cc/phdwjZjg)
-
-</p>
-</details>
-
-<b>Program output</b>
-
-<details>
-<summary>🔴 See on IntelliJ</summary>
+<summary>🔵 Program output</summary>
 <p> 
   
 [![isaac-arnault-intelli-J-7.png](https://i.postimg.cc/SswqY01r/isaac-arnault-intelli-J-7.png)](https://postimg.cc/JDcSSFLD)
