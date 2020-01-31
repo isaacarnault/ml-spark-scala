@@ -59,11 +59,6 @@ This gist is structured into 2 parts:<br>
 
 # Resources
 
-https://twitter.com/ofcwilson
-https://www.fathersinfashion.com/blog/2018/10/29/member-spotlight-caleb-wilson
-https://twitter.com/_msl92
-https://twitter.com/manwellreyes
-
 I've uploaded a `.zip` file ** which contains useful slides related to `MachineLearning`, `Spark` and `Scala`.<br>
 <b>https://bit.ly/2zkcrP7</b>
   
