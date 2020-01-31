@@ -64,7 +64,7 @@ https://www.fathersinfashion.com/blog/2018/10/29/member-spotlight-caleb-wilson
 https://twitter.com/_msl92
 https://twitter.com/manwellreyes
 
-I've uploaded a `.zip` file ** which contains useful slides `MachineLearning`, `Spark` and `Scala`.<br>
+I've uploaded a `.zip` file ** which contains useful slides related to `MachineLearning`, `Spark` and `Scala`.<br>
 <b>https://bit.ly/2zkcrP7</b>
   
 ## Author
