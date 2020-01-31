@@ -9,7 +9,7 @@ The following gist is intended to Data Engineers. It focuses on `Spark` and `Sca
 If we want to handle `batch` and `real-time` data processing, this gist is definitely worth checking.<br>
 We'll learn how to install and use `Spark` and `Scala` on a `Linux` system.<br>
 We'll learn latest `Spark 2.0` methods and updates to the `MLlib` library working with `Spark SQL` and Dataframes.
-Please fork it if we find it relevant for our educational or professional path.
+Please fork it if you find it relevant for our educational or professional path.
 
 ## How is gist is structured
 This gist is structured into 2 parts:<br>
